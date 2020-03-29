@@ -26,9 +26,9 @@ Kd = 3; % Derivative gain
 t_sim = 30; % Simulation time in s
 dt = 0.001; % Simulation step time in s
 t_dis1 = 20; % Time when the first disturbance occurs
-F_dis1 = 0; % Magnetude of the first disturbance in N
+F_dis1 = 150; % Magnetude of the first disturbance in N
 t_dis2 = 40; % Time when the second disturbance occurs
-F_dis2 = 0; % Magnetude of the second disturbance in N
+F_dis2 = -107.5; % Magnetude of the second disturbance in N
 
 
 %% Sensor characterization
